@@ -4,6 +4,9 @@ For help getting started with Flutter, view our online
 
 [![Pub](https://img.shields.io/badge/Pub-0.1.4-orange.svg?style=flat-square)](https://pub.dartlang.org/packages/qr_utils)
 
+WGT: This is a modified version for the original qr_utils, to fix the AndroidX issue
+
+see here for detials https://github.com/flutter-devs/qr_utils/issues/2#issuecomment-534910138
 
 
 # qr_utils
